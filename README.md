@@ -13,7 +13,7 @@ How to Run:
 1. Open the `.sln` file in Visual Studio.
 2. Update the database connection string in `appsettings.json` if needed.
 3. Build the project.
-4. Run the project using IIS Express.
+4. Run the project.
 
 Project Files:
 - `Controllers/` – Handles logic
